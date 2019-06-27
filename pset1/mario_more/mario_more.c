@@ -1,3 +1,7 @@
+/******************************
+ * Prints a pyramid similiar to those in mario game
+ * This is a little bit harder exercise for getting known with nested loops, than mario_less
+ ******************************/
 #include <cs50.h>
 #include <stdio.h>
 

@@ -1,6 +1,6 @@
 /******************************
  * Prints a pyramid similiar to those in mario game
- * This is an exercise for getting known with nested loops
+ * This is an easy exercise for getting known with nested loops
  ******************************/
 
 #include <cs50.h>

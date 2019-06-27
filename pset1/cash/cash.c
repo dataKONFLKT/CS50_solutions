@@ -1,3 +1,7 @@
+/******************************
+ * Prints out number of coins needed to five change back
+ ******************************/
+
 #include <stdio.h>
 #include <math.h>
 #include <cs50.h>

@@ -1,3 +1,7 @@
+/******************************
+ * Checks for a valid credit card number
+ ******************************/
+
 #include <stdio.h>
 #include <cs50.h>
 #include <math.h>
