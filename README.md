@@ -5,7 +5,7 @@ This repository contains solutions for the Problem Sets and Projects for CS50's 
 
 Go ahead and take a peak. I hope they can help You a bit with Your own solutions.
 <div id="toc_container">
-<h2 p class="toc_title">Table of Contents:</p>
+<h2 p class="toc_title">Table of Contents:</p></h2>
 <ul class="toc_list">
   <li><a href="https://docs.cs50.net/2018/x/psets/1/pset1.html">Problem Set 1: C</a>
   <ul>
