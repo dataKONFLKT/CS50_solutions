@@ -9,11 +9,11 @@ Go ahead and take a peak. I hope they can help You a bit with Your own solutions
 <ul class="toc_list">
   <li><a href="https://docs.cs50.net/2018/x/psets/1/pset1.html">Problem Set 1: C</a>
   <ul>
-    <li><a href="#">1.1 hello</a></li>
-    <li><a href="#">1.2 cash</a></li>
-    <li><a href="#">1.3 credit</a></li>
-    <li><a href="#">1.4 mario_less</a></li>
-    <li><a href="#">1.5 mario_more</a></li>
+    <li><a href="https://github.com/dataKONFLKT/CS50_solutions/tree/master/pset1/hello">1.1 hello</a></li>
+    <li><a href="https://github.com/dataKONFLKT/CS50_solutions/tree/master/pset1/mario_less">1.2 mario_less</a></li>
+    <li><a href="https://github.com/dataKONFLKT/CS50_solutions/tree/master/pset1/mario_more">1.3 mario_more</a></li>
+    <li><a href="https://github.com/dataKONFLKT/CS50_solutions/tree/master/pset1/cash">1.4 cash</a></li>
+    <li><a href="https://github.com/dataKONFLKT/CS50_solutions/tree/master/pset1/credit">1.5 credit</a></li>
   </ul>
 </li>
   <li><a href="https://docs.cs50.net/2018/x/psets/2/pset2.html">Problem Set 2: Crypto</a></li>
