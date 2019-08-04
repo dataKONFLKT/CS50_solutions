@@ -1,5 +1,13 @@
 /******************************
- * Checks for a valid credit card number
+ * 
+ *  credit.c
+ *  
+ *  DataKonflkt
+ *  Harvard Computer Science 50
+ *  Week one Problem Set
+ *  
+ *  This program checks if credit card number is valid, using Luhn's algorithm
+ * 
  ******************************/
 
 #include <stdio.h>
@@ -15,8 +23,7 @@ int main(void)
     long number = creditnumber;
     int checksum = 0, digit = 0;
     
-    // Start with FIRST while LOOP, where 'every second' digit 'starting from 2nd digit' is multiplied by 2 and added to checksum
-    
+    // Starting with FIRST while LOOP, where 'every second' digit 'starting from 2nd digit' is multiplied by 2 and added to checksum
     // Firstly move 1 digit left
     number = number / 10;
     do
@@ -44,7 +51,7 @@ int main(void)
     }
     while (number > 0);
 
-    //Check sum
+    //Check sum and check card name (using given conditions)
     if (checksum % 10 == 0)
     {
         if (creditnumber / 10000000000000 == 34 || creditnumber / 10000000000000 == 37) {printf("AMEX\n"); }

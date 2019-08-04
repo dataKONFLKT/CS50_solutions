@@ -1,6 +1,14 @@
 /******************************
- * I believe this code doesn't need any explanation :)
- * Everything was shown during the Week one lecture, if You still missed it, go watch it!
+ * 
+ *  hello.c
+ *  
+ *  DataKonflkt
+ *  Harvard Computer Science 50
+ *  Week one Problem Set
+ *
+ *	I believe this code doesn't need any explanation :)
+ *	Everything was shown during the Week one lecture, if You still missed it, go watch it!
+ *
  ******************************/
 
 #include <stdio.h>

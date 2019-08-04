@@ -1,6 +1,14 @@
 /******************************
- * Prints a pyramid similiar to those in mario game
- * This is an easy exercise for getting known with nested loops
+ * 
+ *  mario_less.c
+ *  
+ *  DataKonflkt
+ *  Harvard Computer Science 50
+ *  Week one Problem Set
+ *
+ *  Prints a pyramid similiar to those in mario game
+ *  This is an easy exercise for getting known with nested loops
+ *
  ******************************/
 
 #include <cs50.h>
