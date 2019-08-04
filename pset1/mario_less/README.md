@@ -1,1 +1,1 @@
-https://lab.cs50.io/cs50/labs/2019/x/mario/less/
+https://lab.cs50.io/cs50/labs/2019/x/mario/less/ [last time checked 04-08-2019]

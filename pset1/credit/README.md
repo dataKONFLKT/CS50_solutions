@@ -1,1 +1,1 @@
-https://lab.cs50.io/cs50/labs/2019/x/credit/
+https://lab.cs50.io/cs50/labs/2019/x/credit/ [last time checked 04-08-2019]
